@@ -1,4 +1,4 @@
-# Tokenizer Triner
+# Tokenizer Trainer
 
 ## Overview
 
